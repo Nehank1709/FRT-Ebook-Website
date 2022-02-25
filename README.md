@@ -14,6 +14,7 @@ We will be using **HTML, CSS** to build the front end part and **Azure storage a
 
 [![](https://github.com/gavelprashant99.png?size=50)](https://github.com/gavelprashant99)
 [![](https://github.com/Nehank1709.png?size=50)](https://github.com/Nehank1709)
+[![](https://github.com/SumitKumarRana.png?size=50)](https://github.com/SumitKumarRana)
 
 @gavelprashant99
 @Nehank1709
