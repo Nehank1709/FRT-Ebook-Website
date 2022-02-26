@@ -13,6 +13,11 @@ a{
     text-decoration: none;
 }
 
+#query {
+    text-decoration: none;
+    font-size: 1.2rem;
+}
+
 .logo {
     color: #5cfdb2;
     font-weight: bolder;
@@ -113,12 +118,16 @@ nav .menu-btn{
     margin: 0px;
 }
 .header-text p{
-    font-size: 0.9rem;
+    font-size: 1.1rem;
     color: rgb(235, 235, 235);
 }
 .header-text span{
     color: #5cfdb2;
     text-decoration: underline;
+}
+
+#OR {
+    text-align: center;
 }
 
 /*******************HEADER BUTTON***************/
@@ -361,7 +370,7 @@ nav .menu-btn{
         top: 0;
     }  
     nav .menu-btn{
-        display: none;
+        display: block;
     } 
     nav .menu-btn:checked ~ .menu{
         display: block;
